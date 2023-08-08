@@ -23,7 +23,10 @@ footer{
   text-align: center;
   align-items: center;
   height: 15vh;
+  display: flex;
   justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .d-flex{
